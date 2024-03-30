@@ -1,0 +1,8 @@
+.top-container {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    text-align: center;
+    background-color: #b16f6f;
+    left: 0;
+}

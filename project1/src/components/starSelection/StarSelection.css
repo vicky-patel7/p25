@@ -1,0 +1,10 @@
+span{
+    margin-left: 5px;
+    font-size: 32px;
+}
+.active {
+    color: yellow;
+}
+.star-icon{
+    cursor: pointer;
+}
